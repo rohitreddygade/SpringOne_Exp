@@ -1,9 +1,12 @@
 HELP.md
 target/
+node_modules/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### macos ###
+.DS_Store
 ### STS ###
 .apt_generated
 .classpath

@@ -1,0 +1,33 @@
+{
+  "name": "spring_react",
+  "version": "1.0.0",
+  "description": "Basic Spring Reach Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitreddygade/SpringOne_Exp.git"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "rest": "^1.3.1"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitreddygade/SpringOne_Exp/issues"
+  },
+  "homepage": "https://github.com/rohitreddygade/SpringOne_Exp#readme"
+
+}
