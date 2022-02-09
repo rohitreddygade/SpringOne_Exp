@@ -1,7 +1,7 @@
 var path = require('path');
 
 module.exports = {
-    entry: './src/main/react/app.js',
+    entry: './src/main/main/app.js',
     devtool: 'sourcemaps',
     cache: true,
     mode: 'development',
